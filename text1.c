@@ -5,6 +5,6 @@ char str = '1';
 return 0;
 }
 
-void copy () 
+void copy(int x,int y)
 {
 }
