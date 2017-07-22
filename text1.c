@@ -5,3 +5,6 @@ char str = '1';
 return 0;
 }
 
+void copy () 
+{
+}
